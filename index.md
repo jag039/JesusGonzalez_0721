@@ -21,7 +21,7 @@ Other languages I know include:
 2. C/C+
 3. x86
 
-#Career Goals
+## Career Goals
 - [ ] Get an internship
 - [ ] Complete multiple projects
 - [ ] Get into grad school
