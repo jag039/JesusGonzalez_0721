@@ -26,3 +26,4 @@ Other languages I know include:
 - [ ] Complete multiple projects
 - [ ] Get into grad school
 
+![Nothing Happened](https://github.com/jag039/docsearch/blob/main/nothing_happened.jpeg)
