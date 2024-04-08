@@ -9,6 +9,9 @@ Hello, welcome to my githib. My name is Jesus Gonzalez, and I am a **second year
 - My favorite show is One Piece and my favorite character is Whitebeard
 - ![whitebeard](whitebeard.md)
 
-##My favorite Quote
+## My favorite Quote
 
-> "
+> "Nothing Happend" - Zoro
+
+## Code Languages
+`hjk`
