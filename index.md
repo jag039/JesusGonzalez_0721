@@ -14,4 +14,15 @@ Hello, welcome to my githib. My name is Jesus Gonzalez, and I am a **second year
 > "Nothing Happend" - Zoro
 
 ## Code Languages
-`hjk`
+My favorite language is `python`
+
+Other languages I know include:
+1. Jave
+2. C/C+
+3. x86
+
+#Career Goals
+- [ ] Get an internship
+- [ ] Complete multiple projects
+- [ ] Get into grad school
+
