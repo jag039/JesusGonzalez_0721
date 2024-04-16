@@ -7,7 +7,7 @@ Hello, welcome to my githib. My name is Jesus Gonzalez, and I am a **second year
 - My goal is to own a house
 - I entered into UCSD at a computer engineering major but after my first programming class i swithced majors to computer scinece because I really liked how it was very problem solving and puzzle oriented.
 - My favorite show is One Piece and my favorite character is Whitebeard
-- [whitebeard](whitebeard.md)
+- [whitebeard](whitebeard.jpeg)
 
 ## My favorite Quote
 
@@ -26,4 +26,4 @@ Other languages I know include:
 - [ ] Complete multiple projects
 - [ ] Get into grad school
 
-![Nothing Happened](https://github.com/jag039/docsearch/blob/main/nothing_happened.jpeg)
+![Nothing Happened](nothing_happened.jpeg)
