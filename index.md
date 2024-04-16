@@ -8,7 +8,7 @@ Hello, welcome to my githib. My name is Jesus Gonzalez, and I am a **second year
 - My goal is to own a house
 - I entered into UCSD at a computer engineering major but after my first programming class i swithced majors to computer scinece because I really liked how it was very problem solving and puzzle oriented.
 - My favorite show is One Piece and my favorite character is Whitebeard
-- ![whitebeard](whitebeard.jpeg)
+- ![whitebeard](whitebeard.jpeg =300x200)
 
 ## My favorite Quote
 
