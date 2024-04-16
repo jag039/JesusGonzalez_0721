@@ -1,5 +1,6 @@
 # Introduction
 Hello, welcome to my githib. My name is Jesus Gonzalez, and I am a **second year compsci student** at *UCSD*. 
+![self portrait](Self_pic.jpg)
 
 ## About me
 - First of all this is a link to my [resume](https://drive.google.com/file/d/1P3wOZbQuYQw2vQjPml381C9c_-qsJbLt/view?usp=sharing)
